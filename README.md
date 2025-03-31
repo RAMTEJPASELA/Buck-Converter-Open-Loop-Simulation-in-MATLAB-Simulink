@@ -23,7 +23,7 @@ The main goals of this project are:
 ✅ **Design a DC-DC buck converter** suitable for applications in **EVs, aerospace, and renewable energy systems**.  
 ✅ **Develop and simulate** the buck converter in **MATLAB Simulink (open-loop configuration)**.  
 ✅ **Analyze theoretical concepts** such as **inductor volt-second balance, capacitor charge balance, and small-ripple approximation**.  
-✅ **Perform waveform analysis** for key electrical parameters: **inductor current, capacitor voltage, and load behavior**.  
+✅ **Perform waveform analysis** for key electrical parameters: **inductor current, and load behavior**.  
 ✅ **Validate theoretical calculations** with MATLAB Simulink simulation results.  
 
 
