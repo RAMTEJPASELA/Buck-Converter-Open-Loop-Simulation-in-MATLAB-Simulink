@@ -4,10 +4,10 @@
 
 Switched-mode **DC-DC converters** are fundamental in power electronics, converting voltage levels efficiently through controlled switching actions. These converters are widely used in:  
 
-- 🔹 **Electric Vehicles (EVs)**  
-- 🔹 **Aerospace Systems**  
-- 🔹 **Renewable Energy Technologies**  
-- 🔹 **Telecommunication & Automotive Electronics**  
+-  **Electric Vehicles (EVs)**  
+-  **Aerospace Systems**  
+-  **Renewable Energy Technologies**  
+-  **Telecommunication & Automotive Electronics**  
 
 Among them, **DC-DC buck converters** play a vital role in stepping down voltage while maintaining high conversion efficiency. This project focuses on **designing, simulating, and analyzing** a **buck converter using MATLAB Simulink** in an **open-loop configuration**.  
 
