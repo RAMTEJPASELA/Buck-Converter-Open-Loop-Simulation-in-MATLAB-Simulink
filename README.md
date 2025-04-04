@@ -25,3 +25,23 @@ The main goals of this project are:
 ✅ **Analyze theoretical concepts** such as **inductor volt-second balance, capacitor charge balance, and small-ripple approximation**.  
 ✅ **Perform waveform analysis** for key electrical parameters: **inductor, capacitor, and load waveforms**.  
 ✅ **Validate theoretical calculations** with MATLAB Simulink simulation results.  
+
+📄 **Read Full Report:**  
+Check out the detailed documentation, waveform analysis, theoretical design, and simulation results.
+
+🔗 [View Full Report on Google Drive](https://drive.google.com/file/d/1xukOxtjEYyKnoTnmoNqFsyppNBEiO594/view)
+
+
+## 🚀 Future Enhancements and Scope
+There are several opportunities to enhance the converter model for more advanced or real-world applications. One key improvement would be the implementation of a closed-loop control system—such as a PI controller—to maintain output regulation under varying load and input conditions. Further, modeling non-ideal components like parasitic resistances, diode forward voltage drops, and switching losses would improve the simulation’s realism. Additional simulations involving transient responses to step load changes can help evaluate dynamic performance. Finally, integration with Simulink Coder would allow the design to be ported to embedded systems for hardware-in-the-loop (HIL) testing and real-time control implementation using platforms like Arduino or STM32. These enhancements would make the model not only more accurate but also industry-relevant.
+
+### 📚 References
+
+Erickson, R. W., & Maksimović, D. (2001). *Fundamentals of Power Electronics*. Springer Science & Business Media.  
+
+### 📧 Contact Me
+
+For queries, collaboration, (or) to know more about the **MATLAB code used for buck converter design and calculations**, feel free to connect:
+
+- **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/paselaramtej)  
