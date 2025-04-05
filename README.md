@@ -29,7 +29,7 @@ The main goals of this project are:
 📄 **Read Full Report:**  
 Check out the detailed documentation, waveform analysis, theoretical design, and simulation results.
 
-🔗 [View Full Report on Google Drive](https://drive.google.com/file/d/1xukOxtjEYyKnoTnmoNqFsyppNBEiO594/view)
+🔗 [View Full Report on Google Drive](https://drive.google.com/file/d/1kZBx8C-UtP2aZCR6diDzHX_-ae1TCZ3Q/view)
 
 
 ## 🚀 Future Enhancements and Scope
