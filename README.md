@@ -1,4 +1,4 @@
-# ⚡ Operation and Analysis of a Open Loop DC-DC Buck Converter Using MATLAB Simulink  
+# ⚡ Operation and Analysis of an Open Loop DC-DC Buck Converter Using MATLAB Simulink  
 
 ## 📌 Introduction  
 
