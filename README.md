@@ -1,7 +1,5 @@
 # ⚡ Operation and Analysis of an Open Loop DC-DC Buck Converter Using Simulink  
 
----
-
 ## 📌 Introduction  
 
 Switched-mode **DC-DC converters** are fundamental in power electronics, converting voltage levels efficiently through controlled switching actions. These converters are widely used in:  
